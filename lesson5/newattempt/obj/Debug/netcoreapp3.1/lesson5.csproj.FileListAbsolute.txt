@@ -1,0 +1,13 @@
+C:\Users\igork\source\repos\lesson5\lesson5\bin\Debug\netcoreapp3.1\lesson5.exe
+C:\Users\igork\source\repos\lesson5\lesson5\bin\Debug\netcoreapp3.1\lesson5.deps.json
+C:\Users\igork\source\repos\lesson5\lesson5\bin\Debug\netcoreapp3.1\lesson5.runtimeconfig.json
+C:\Users\igork\source\repos\lesson5\lesson5\bin\Debug\netcoreapp3.1\lesson5.runtimeconfig.dev.json
+C:\Users\igork\source\repos\lesson5\lesson5\bin\Debug\netcoreapp3.1\lesson5.dll
+C:\Users\igork\source\repos\lesson5\lesson5\bin\Debug\netcoreapp3.1\lesson5.pdb
+C:\Users\igork\source\repos\lesson5\lesson5\obj\Debug\netcoreapp3.1\lesson5.csprojAssemblyReference.cache
+C:\Users\igork\source\repos\lesson5\lesson5\obj\Debug\netcoreapp3.1\lesson5.csproj.CoreCompileInputs.cache
+C:\Users\igork\source\repos\lesson5\lesson5\obj\Debug\netcoreapp3.1\lesson5.AssemblyInfoInputs.cache
+C:\Users\igork\source\repos\lesson5\lesson5\obj\Debug\netcoreapp3.1\lesson5.AssemblyInfo.cs
+C:\Users\igork\source\repos\lesson5\lesson5\obj\Debug\netcoreapp3.1\lesson5.dll
+C:\Users\igork\source\repos\lesson5\lesson5\obj\Debug\netcoreapp3.1\lesson5.pdb
+C:\Users\igork\source\repos\lesson5\lesson5\obj\Debug\netcoreapp3.1\lesson5.genruntimeconfig.cache
