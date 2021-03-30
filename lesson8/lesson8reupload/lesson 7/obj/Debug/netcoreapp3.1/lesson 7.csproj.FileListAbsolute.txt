@@ -1,0 +1,32 @@
+C:\Users\igork\source\repos\lesson 7\lesson 7\bin\Debug\netcoreapp3.1\lesson 7.exe
+C:\Users\igork\source\repos\lesson 7\lesson 7\bin\Debug\netcoreapp3.1\lesson 7.deps.json
+C:\Users\igork\source\repos\lesson 7\lesson 7\bin\Debug\netcoreapp3.1\lesson 7.runtimeconfig.json
+C:\Users\igork\source\repos\lesson 7\lesson 7\bin\Debug\netcoreapp3.1\lesson 7.runtimeconfig.dev.json
+C:\Users\igork\source\repos\lesson 7\lesson 7\bin\Debug\netcoreapp3.1\lesson 7.dll
+C:\Users\igork\source\repos\lesson 7\lesson 7\bin\Debug\netcoreapp3.1\lesson 7.pdb
+C:\Users\igork\source\repos\lesson 7\lesson 7\obj\Debug\netcoreapp3.1\lesson 7.csprojAssemblyReference.cache
+C:\Users\igork\source\repos\lesson 7\lesson 7\obj\Debug\netcoreapp3.1\lesson 7.AssemblyInfoInputs.cache
+C:\Users\igork\source\repos\lesson 7\lesson 7\obj\Debug\netcoreapp3.1\lesson 7.AssemblyInfo.cs
+C:\Users\igork\source\repos\lesson 7\lesson 7\obj\Debug\netcoreapp3.1\lesson 7.dll
+C:\Users\igork\source\repos\lesson 7\lesson 7\obj\Debug\netcoreapp3.1\lesson 7.pdb
+C:\Users\igork\source\repos\lesson 7\lesson 7\obj\Debug\netcoreapp3.1\lesson 7.genruntimeconfig.cache
+C:\Users\igork\source\repos\lesson 7\lesson 7\obj\Debug\netcoreapp3.1\lesson_7.Properties.Resources.resources
+C:\Users\igork\source\repos\lesson 7\lesson 7\obj\Debug\netcoreapp3.1\lesson 7.csproj.GenerateResource.cache
+C:\Users\igork\source\repos\lesson 7\lesson 7\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\igork\source\repos\lesson 7\lesson 7\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\igork\source\repos\lesson 7\lesson 7\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\igork\source\repos\lesson 7\lesson 7\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\igork\source\repos\lesson 7\lesson 7\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\igork\source\repos\lesson 7\lesson 7\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\igork\source\repos\lesson 7\lesson 7\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\igork\source\repos\lesson 7\lesson 7\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\igork\source\repos\lesson 7\lesson 7\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\igork\source\repos\lesson 7\lesson 7\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\igork\source\repos\lesson 7\lesson 7\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\igork\source\repos\lesson 7\lesson 7\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\igork\source\repos\lesson 7\lesson 7\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\igork\source\repos\lesson 7\lesson 7\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\igork\source\repos\lesson 7\lesson 7\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\igork\source\repos\lesson 7\lesson 7\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\igork\source\repos\lesson 7\lesson 7\obj\Debug\netcoreapp3.1\lesson 7.csproj.CoreCompileInputs.cache
+C:\Users\igork\source\repos\lesson 7\lesson 7\obj\Debug\netcoreapp3.1\lesson 7.csproj.CopyComplete
