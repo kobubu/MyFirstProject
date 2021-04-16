@@ -1,0 +1,13 @@
+C:\Users\igork\source\repos\File manager\File manager\obj\Debug\netcoreapp3.1\File manager.csprojAssemblyReference.cache
+C:\Users\igork\source\repos\File manager\File manager\obj\Debug\netcoreapp3.1\File manager.csproj.CoreCompileInputs.cache
+C:\Users\igork\source\repos\File manager\File manager\obj\Debug\netcoreapp3.1\File manager.AssemblyInfoInputs.cache
+C:\Users\igork\source\repos\File manager\File manager\obj\Debug\netcoreapp3.1\File manager.AssemblyInfo.cs
+C:\Users\igork\source\repos\File manager\File manager\obj\Debug\netcoreapp3.1\File manager.genruntimeconfig.cache
+C:\Users\igork\source\repos\File manager\File manager\bin\Debug\netcoreapp3.1\File_manager.exe
+C:\Users\igork\source\repos\File manager\File manager\bin\Debug\netcoreapp3.1\File_manager.deps.json
+C:\Users\igork\source\repos\File manager\File manager\bin\Debug\netcoreapp3.1\File_manager.runtimeconfig.json
+C:\Users\igork\source\repos\File manager\File manager\bin\Debug\netcoreapp3.1\File_manager.runtimeconfig.dev.json
+C:\Users\igork\source\repos\File manager\File manager\bin\Debug\netcoreapp3.1\File_manager.dll
+C:\Users\igork\source\repos\File manager\File manager\bin\Debug\netcoreapp3.1\File_manager.pdb
+C:\Users\igork\source\repos\File manager\File manager\obj\Debug\netcoreapp3.1\File_manager.dll
+C:\Users\igork\source\repos\File manager\File manager\obj\Debug\netcoreapp3.1\File_manager.pdb
