@@ -1,0 +1,13 @@
+C:\Users\igork\source\repos\algoles2\algoles2\bin\Debug\netcoreapp3.1\algoles2.exe
+C:\Users\igork\source\repos\algoles2\algoles2\bin\Debug\netcoreapp3.1\algoles2.deps.json
+C:\Users\igork\source\repos\algoles2\algoles2\bin\Debug\netcoreapp3.1\algoles2.runtimeconfig.json
+C:\Users\igork\source\repos\algoles2\algoles2\bin\Debug\netcoreapp3.1\algoles2.runtimeconfig.dev.json
+C:\Users\igork\source\repos\algoles2\algoles2\bin\Debug\netcoreapp3.1\algoles2.dll
+C:\Users\igork\source\repos\algoles2\algoles2\bin\Debug\netcoreapp3.1\algoles2.pdb
+C:\Users\igork\source\repos\algoles2\algoles2\obj\Debug\netcoreapp3.1\algoles2.csprojAssemblyReference.cache
+C:\Users\igork\source\repos\algoles2\algoles2\obj\Debug\netcoreapp3.1\algoles2.csproj.CoreCompileInputs.cache
+C:\Users\igork\source\repos\algoles2\algoles2\obj\Debug\netcoreapp3.1\algoles2.AssemblyInfoInputs.cache
+C:\Users\igork\source\repos\algoles2\algoles2\obj\Debug\netcoreapp3.1\algoles2.AssemblyInfo.cs
+C:\Users\igork\source\repos\algoles2\algoles2\obj\Debug\netcoreapp3.1\algoles2.dll
+C:\Users\igork\source\repos\algoles2\algoles2\obj\Debug\netcoreapp3.1\algoles2.pdb
+C:\Users\igork\source\repos\algoles2\algoles2\obj\Debug\netcoreapp3.1\algoles2.genruntimeconfig.cache
