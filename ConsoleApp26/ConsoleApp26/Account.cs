@@ -4,10 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-//3.В классе банковский счет удалить методы заполнения полей. Вместо этих методов создать конструкторы.
-//Переопределить конструктор по умолчанию, создать конструктор для заполнения поля баланс,
-//конструктор для заполнения поля тип банковского счета, конструктор для заполнения баланса и типа банковского счета.
-//Каждый конструктор должен вызывать метод, генерирующий номер счета.
+//4. В классе все методы для заполнения и получения значений полей заменить на свойства. Написать тестовый пример.
 
 namespace ConsoleApp26
 {
@@ -22,11 +19,20 @@ namespace ConsoleApp26
         Random rand = new Random();
         public List<int> randomList = new List<int>();
 
-        public void Create_acc_number()
+        public int Ac_number
         {
-            _ac_number = rand.Next(1, 1000000);
-            while (randomList.Contains(_ac_number))
-                _ac_number++;
+            get
+            { return _ac_number
+
+            ;
+            }
+            set
+            {
+                _ac_number = rand.Next(1, 1000000);
+                while (randomList.Contains(_ac_number))
+                    _ac_number++; ;
+
+            }
         }
 
 
@@ -42,14 +48,14 @@ namespace ConsoleApp26
         public Account(double balance)
         {
             _balance = balance;
-            Create_acc_number();
+            
 
 
         }
         public Account(ac_type ac_type)
         {
             _ac_type = ac_type;
-            Create_acc_number();
+            
 
         }
 
@@ -57,7 +63,7 @@ namespace ConsoleApp26
         {
             _balance = balance;
             _ac_type = ac_type;
-            Create_acc_number();
+            
 
         }
 
@@ -72,13 +78,7 @@ namespace ConsoleApp26
 
         }
 
-        public int account_increment()
-        {
-
-            _ac_number++;
-            return _ac_number;
-
-        }
+       
 
 
     }
