@@ -1,0 +1,16 @@
+C:\Users\igork\source\repos\ConsoleApp29\ConsoleApp29\bin\Debug\net5.0\ConsoleApp29.exe
+C:\Users\igork\source\repos\ConsoleApp29\ConsoleApp29\bin\Debug\net5.0\ConsoleApp29.deps.json
+C:\Users\igork\source\repos\ConsoleApp29\ConsoleApp29\bin\Debug\net5.0\ConsoleApp29.runtimeconfig.json
+C:\Users\igork\source\repos\ConsoleApp29\ConsoleApp29\bin\Debug\net5.0\ConsoleApp29.runtimeconfig.dev.json
+C:\Users\igork\source\repos\ConsoleApp29\ConsoleApp29\bin\Debug\net5.0\ConsoleApp29.dll
+C:\Users\igork\source\repos\ConsoleApp29\ConsoleApp29\bin\Debug\net5.0\ref\ConsoleApp29.dll
+C:\Users\igork\source\repos\ConsoleApp29\ConsoleApp29\bin\Debug\net5.0\ConsoleApp29.pdb
+C:\Users\igork\source\repos\ConsoleApp29\ConsoleApp29\obj\Debug\net5.0\ConsoleApp29.csproj.AssemblyReference.cache
+C:\Users\igork\source\repos\ConsoleApp29\ConsoleApp29\obj\Debug\net5.0\ConsoleApp29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igork\source\repos\ConsoleApp29\ConsoleApp29\obj\Debug\net5.0\ConsoleApp29.AssemblyInfoInputs.cache
+C:\Users\igork\source\repos\ConsoleApp29\ConsoleApp29\obj\Debug\net5.0\ConsoleApp29.AssemblyInfo.cs
+C:\Users\igork\source\repos\ConsoleApp29\ConsoleApp29\obj\Debug\net5.0\ConsoleApp29.csproj.CoreCompileInputs.cache
+C:\Users\igork\source\repos\ConsoleApp29\ConsoleApp29\obj\Debug\net5.0\ConsoleApp29.dll
+C:\Users\igork\source\repos\ConsoleApp29\ConsoleApp29\obj\Debug\net5.0\ref\ConsoleApp29.dll
+C:\Users\igork\source\repos\ConsoleApp29\ConsoleApp29\obj\Debug\net5.0\ConsoleApp29.pdb
+C:\Users\igork\source\repos\ConsoleApp29\ConsoleApp29\obj\Debug\net5.0\ConsoleApp29.genruntimeconfig.cache
